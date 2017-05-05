@@ -1,0 +1,63 @@
+/*to style list orientation*/
+ul {
+text-align:center;
+background-color: #202020;
+margin: 0;
+}
+/*to style list items individually*/
+li {
+  display:inline-block;
+  padding:10px 35px 10px 35px;
+  color: white;
+}
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family:'Roboto Condensed',sans-serif;
+}
+footer ul {
+  text-align: center;
+  margin: 0;
+}
+#allImg img{
+width:315px;
+height:200px;
+}
+.box {
+  display:inline-block;
+}
+#allImg h2, h3 {
+position:absolute;
+}
+.box h3 {
+margin-top: 45px;
+}
+#momh2 {
+margin-left: 60px;
+}
+#momh3 {
+  margin-left: 50px;
+  font-size: 20px;
+}
+#iphoneh2 {
+  margin-left: 125px;
+}
+#iphoneh3 {
+  margin-left: 120px;
+}
+#airh2 {
+  margin-left:120px;
+}
+#airh3 {
+  margin-left: 50px;
+}
+#mach2 {
+  margin-left: 90px;
+}
+#mach3 {
+  margin-left: 80px;
+}
+span {
+  color: white;
+}
